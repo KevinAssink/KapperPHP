@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/KapperPHP.iml" filepath="$PROJECT_DIR$/.idea/KapperPHP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ResponsiveKapper/.idea/Mobile.iml" filepath="$PROJECT_DIR$/../ResponsiveKapper/.idea/Mobile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../challengephp2018/.idea/challengephp2018.iml" filepath="$PROJECT_DIR$/../challengephp2018/.idea/challengephp2018.iml" />
     </modules>
   </component>
 </project>
