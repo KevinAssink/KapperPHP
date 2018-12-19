@@ -6,5 +6,8 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Mobile" />
     <orderEntry type="module" module-name="challengephp2018" />
+    <orderEntry type="module" module-name="PHPChallengeRes" />
+    <orderEntry type="module" module-name="JS" />
+    <orderEntry type="module" module-name="PortfolioSite" />
   </component>
 </module>
